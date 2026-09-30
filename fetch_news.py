@@ -14,7 +14,7 @@ articles = []
 
 for feed in FEEDS: 
     try: 
-      req = urllib.request.Request(feed["url"], headers={'User-Agent': "Mozilla/5.0'})
+      req = urllib.request.Request(feed["url"], headers={'User-Agent': 'Mozilla/5.0'})
       with urllib.request.urlopen(req) as response:
         xml_data = response.read()
         root = ET.fromstring(xml_data)
