@@ -1,76 +1,70 @@
 <!DOCTYPE html>
-<html lang="eng"
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body { font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; background: #0f172a; color: #f8fafc; }
-    h1 { color: #38bdf8; border-bottom: 2px solid #334155; padding-bottom: 10 px; }
-    .article { background:#1e293b; border-radius: 8px; padding: 20px; margin-bottom: 16px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); }
-    .article h2 { margin-top: 0; font-seze: 1.25rem; }
-    .article a { color: #38bdf8; text-decoration: none; }
-    .article a:hover { text-decoration: underline; }
-    .meta { font-sixe: 0.85rem; color: #94a3b8; margin-top: 8px; }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity News Tracker</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔒</text></svg>">
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; background: #0f172a; color: #f8fafc; }
+        h1 { color: #38bdf8; border-bottom: 2px solid #334155; padding-bottom: 10px; }
+        .article { background: #1e293b; border-radius: 8px; padding: 20px; margin-bottom: 16px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); }
+        .article h2 { margin-top: 0; font-size: 1.25rem; }
+        .article a { color: #38bdf8; text-decoration: none; }
+        .article a:hover { text-decoration: underline; }
+        .meta { font-size: 0.85rem; color: #94a3b8; margin-top: 8px; }
     </style>
 </head>
 <body>
-    <h1> Cybersecurity News Tracker</h1>
-    <p>Automatically updated cybersecurity news and updates</p>
-  
-    <div id=news-container">Loading latest news...</div>
-<script>
-    async function fetchNews() {
-        const container = document.getElementById('news-container');
-        
-        // Find the absolute base path for your repository
-        const jsonUrl = new URL('articles.json', window.location.href).href;
 
-        container.innerHTML = `<p style="color: #94a3b8;">Attempting to fetch from: <br><code>${jsonUrl}</code>...</p>`;
+    <h1>🔒 Cybersecurity News Tracker</h1>
+    <p>Automatically updated cybersecurity news and updates.</p>
 
-        try {
-            const response = await fetch(jsonUrl + '?t=' + Date.now());
+    <!-- THIS ID MUST MATCH JavaScript's getElementById('news-container') -->
+    <div id="news-container">Loading latest news...</div>
+
+    <script>
+        async function fetchNews() {
+            const container = document.getElementById('news-container');
             
-            if (!response.ok) {
-                container.innerHTML = `
-                    <div style="background: #451a03; border: 1px solid #f97316; padding: 16px; border-radius: 8px;">
-                        <h3 style="color: #fb923c; margin-top:0;">⚠️ HTTP Error ${response.status}</h3>
-                        <p>The webpage tried to fetch articles from:</p>
-                        <p><code>${jsonUrl}</code></p>
-                        <p><strong>Reason:</strong> The server returned status ${response.status} (${response.statusText}).</p>
-                    </div>`;
+            if (!container) {
+                console.error("Target container #news-container not found in the DOM.");
                 return;
             }
 
-            const articles = await response.json();
-            
-            if (!Array.isArray(articles) || articles.length === 0) {
-                container.innerHTML = `
-                    <div style="background: #1e293b; padding: 16px; border-radius: 8px;">
-                        <p>Connected to <code>articles.json</code> successfully, but the file contains no articles (empty array <code>[]</code>).</p>
-                    </div>`;
-                return;
+            try {
+                const response = await fetch('articles.json?t=' + Date.now());
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                
+                const articles = await response.json();
+                
+                if (!Array.isArray(articles) || articles.length === 0) {
+                    container.innerHTML = '<p>No articles found.</p>';
+                    return;
+                }
+
+                container.innerHTML = articles.map(item => `
+                    <div class="article">
+                        <h2><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h2>
+                        <div class="meta">Source: ${item.source} ${item.pubDate ? '| Published: ' + new Date(item.pubDate).toLocaleDateString() : ''}</div>
+                    </div>
+                `).join('');
+
+            } catch (error) {
+                console.error("Fetch error:", error);
+                container.innerHTML = `<p style="color: #f87171;">Failed to load articles (${error.message}).</p>`;
             }
-
-            // Display articles if found
-            container.innerHTML = articles.map(item => `
-                <div class="article">
-                    <h2><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h2>
-                    <div class="meta">Source: ${item.source} ${item.pubDate ? '| Published: ' + new Date(item.pubDate).toLocaleDateString() : ''}</div>
-                </div>
-            `).join('');
-
-        } catch (error) {
-            container.innerHTML = `
-                <div style="background: #450a0a; border: 1px solid #ef4444; padding: 16px; border-radius: 8px;">
-                    <h3 style="color: #f87171; margin-top:0;">⚠️ JavaScript Fetch Error</h3>
-                    <p><code>${error.message}</code></p>
-                </div>`;
         }
-    }
 
-    fetchNews();
-</script>
+        // Run fetch after the DOM is fully loaded
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', fetchNews);
+        } else {
+            fetchNews();
+        }
+    </script>
 </body>
 </html>
 
-  </body>
