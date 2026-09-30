@@ -2,10 +2,10 @@ name: Fetch Cybersecurity News
 
 on:
   schedule:
-   - cron: '0 */6 * * *'  # Runs every 6 hours
-  workflow_dispatch:    # Allows manual trigger
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
-jobs: 
+jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
@@ -17,16 +17,15 @@ jobs:
 
       - name: Set up Python
         uses: actions/setup-python@v5
-        with: 
+        with:
           python-version: '3.x'
 
       - name: Run news fetcher
-        run: pythod fetch_news.py
+        run: python fetch_news.py
 
       - name: Commit and push updated articles
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add articles.json
-          git diff --quiet && git diff  --staged --quiet || (get commit -m "Auto-update cybersecurity articles" && git push)
-    
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update cybersecurity articles" && git push)
