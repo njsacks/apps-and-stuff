@@ -1,6 +1,4 @@
-yaml
-
-name: Fetch Cybersecurity News
+yaml name: Fetch Cybersecurity News
 
 on:
   schedule:
