@@ -1,6 +1,7 @@
 yaml
 
 name: Fetch Cybersecurity News
+
 on:
   schedule:
     - cron: '0 */6 * * *'  # Runs every 6 hours
