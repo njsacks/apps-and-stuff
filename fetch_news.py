@@ -38,6 +38,3 @@ with open('articles.json', 'w', encoding='utf-8') as f:
     json.dump(articles, f, indent=2)
 
 print(f"Saved {len(articles)} articles.")
-    json.dump(articles, f, indent=2)
-
-
