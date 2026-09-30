@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+    "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 30 Sep 2026 11:00:30 +0530"
+  },
+  {
+    "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+    "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 29 Sep 2026 23:17:01 +0530"
+  },
+  {
+    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+    "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 29 Sep 2026 22:50:17 +0530"
+  },
+  {
+    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+    "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 29 Sep 2026 22:50:08 +0530"
+  },
+  {
+    "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+    "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 29 Sep 2026 19:43:20 +0530"
+  }
+]
