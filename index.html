@@ -18,32 +18,58 @@
     <p>Automatically updated cybersecurity news and updates</p>
   
     <div id=news-container">Loading latest news...</div>
+<script>
+    async function fetchNews() {
+        const container = document.getElementById('news-container');
+        
+        // Find the absolute base path for your repository
+        const jsonUrl = new URL('articles.json', window.location.href).href;
 
-    <script>
-        async function fetchNews() {
-            const container = document.getElementByID('news-container');
-            try {
-                // Fetch articles.json relative to current location + cache buster  
-                consta response = await fetch('articles.json?cache=' + Date.now()); 
+        container.innerHTML = `<p style="color: #94a3b8;">Attempting to fetch from: <br><code>${jsonUrl}</code>...</p>`;
 
-                if (!response.ok) {
-                    throw new Error(`Failed to load articles.json (Status: ${response.status})`);
-                }
+        try {
+            const response = await fetch(jsonUrl + '?t=' + Date.now());
             
-                container.innerHTML = articles.map(item => `
-                    <div class="article">
-                        <h2><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h2>
-                        <div class="meta">Source: ${item.source} ${item.pubDate ? '| Published: ' + new Date(item.pubDate).toLocaleDateString() : ''}</div>
-                    </div>
-                    `).join(''); 
-             } catch (error) {
-                 console error('Fetch error:', error);
-                 container.innerHTML = `<p style="color: #f87171;">Unable to load news. (${error.message})</p>`;
-             }
+            if (!response.ok) {
+                container.innerHTML = `
+                    <div style="background: #451a03; border: 1px solid #f97316; padding: 16px; border-radius: 8px;">
+                        <h3 style="color: #fb923c; margin-top:0;">⚠️ HTTP Error ${response.status}</h3>
+                        <p>The webpage tried to fetch articles from:</p>
+                        <p><code>${jsonUrl}</code></p>
+                        <p><strong>Reason:</strong> The server returned status ${response.status} (${response.statusText}).</p>
+                    </div>`;
+                return;
+            }
+
+            const articles = await response.json();
+            
+            if (!Array.isArray(articles) || articles.length === 0) {
+                container.innerHTML = `
+                    <div style="background: #1e293b; padding: 16px; border-radius: 8px;">
+                        <p>Connected to <code>articles.json</code> successfully, but the file contains no articles (empty array <code>[]</code>).</p>
+                    </div>`;
+                return;
+            }
+
+            // Display articles if found
+            container.innerHTML = articles.map(item => `
+                <div class="article">
+                    <h2><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h2>
+                    <div class="meta">Source: ${item.source} ${item.pubDate ? '| Published: ' + new Date(item.pubDate).toLocaleDateString() : ''}</div>
+                </div>
+            `).join('');
+
+        } catch (error) {
+            container.innerHTML = `
+                <div style="background: #450a0a; border: 1px solid #ef4444; padding: 16px; border-radius: 8px;">
+                    <h3 style="color: #f87171; margin-top:0;">⚠️ JavaScript Fetch Error</h3>
+                    <p><code>${error.message}</code></p>
+                </div>`;
         }
-          
-        fetchNews();
-    </script>
+    }
+
+    fetchNews();
+</script>
 </body>
 </html>
 
