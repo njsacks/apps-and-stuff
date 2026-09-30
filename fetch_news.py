@@ -7,7 +7,7 @@ from datetime import datetime
 
 # Feeds to aggregate
 FEEDS = [
-  {"name": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackerNews"],
+  {"name": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackerNews"},
   {"name": "CISA Alerts", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"}
 ]
 articles = []
