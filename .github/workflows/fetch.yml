@@ -2,8 +2,8 @@ yaml name: Fetch Cybersecurity News
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
-    workflow_dispatch:    # Allows manual trigger
+   - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:    # Allows manual trigger
 
 jobs: 
   build:
