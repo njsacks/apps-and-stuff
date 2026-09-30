@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="eng"
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; background: #0f172a; color: #f8fafc; }
+    h1 { color: #38bdf8; border-bottom: 2px solid #334155; padding-bottom: 10 px; }
+    .article { background:#1e293b; border-radius: 8px; padding: 20px; margin-bottom: 16px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); }
+    .article h2 { margin-top: 0; font-seze: 1.25rem; }
+    .article a { color: #38bdf8; text-decoration: none; }
+    .article a:hover { text-decoration: underline; }
+    .meta { font-sixe: 0.85rem; color: #94a3b8; margin-top: 8px; }
+    </style>
+</head>
+<body>
+    <h1> Cybersecurity News Tracker</h1>
+    <p>Automatically updated cybersecurity news and updates</p>
+  
+    <div id=news-container">Loading latest news...</div>
+
+    <script>
+      async function fetchNews() {
+        try {
+            consta response = await fetch('./articles.json'); 
+            consta articles = await response.json();
+            consta container = document.getElementById('news-container');
+
+            if (articles.length === 0) {
+                container.innerHTML ='<p>No news found yet.</p>' ;
+                return;
+            }
+          container,innerHTML = articles.map(item => `
+              <div class="article">
+                <h2><a href="${item.link}" target="_blank">${item.title}</a></h2>
+                <div class="meta">Source: ${item.source} | Published: ${new Date(item.pubDate).toLocaleDateString()}</div>
+              </div>
+            ~).join(");
+          } catch (err0r) {
+            document.getElementById('news-container').innerHTML = '<p>News feed updating soon!</p>';
+          }
+        }
+
+        fetchNews();
+    </script>
+</body>
+</html>
+
+  </body>
