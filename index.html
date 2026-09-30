@@ -20,27 +20,28 @@
     <div id=news-container">Loading latest news...</div>
 
     <script>
-      async function fetchNews() {
-        try {
-            consta response = await fetch('./articles.json'); 
-            consta articles = await response.json();
-            consta container = document.getElementById('news-container');
+        async function fetchNews() {
+            const container = document.getElementByID('news-container');
+            try {
+                // Fetch articles.json relative to current location + cache buster  
+                consta response = await fetch('articles.json?cache=' + Date.now()); 
 
-            if (articles.length === 0) {
-                container.innerHTML ='<p>No news found yet.</p>' ;
-                return;
-            }
-          container,innerHTML = articles.map(item => `
-              <div class="article">
-                <h2><a href="${item.link}" target="_blank">${item.title}</a></h2>
-                <div class="meta">Source: ${item.source} | Published: ${new Date(item.pubDate).toLocaleDateString()}</div>
-              </div>
-            ~).join(");
-          } catch (err0r) {
-            document.getElementById('news-container').innerHTML = '<p>News feed updating soon!</p>';
-          }
+                if (!response.ok) {
+                    throw new Error(`Failed to load articles.json (Status: ${response.status})`);
+                }
+            
+                container.innerHTML = articles.map(item => `
+                    <div class="article">
+                        <h2><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h2>
+                        <div class="meta">Source: ${item.source} ${item.pubDate ? '| Published: ' + new Date(item.pubDate).toLocaleDateString() : ''}</div>
+                    </div>
+                    `).join(''); 
+             } catch (error) {
+                 console error('Fetch error:', error);
+                 container.innerHTML = `<p style="color: #f87171;">Unable to load news. (${error.message})</p>`;
+             }
         }
-
+          
         fetchNews();
     </script>
 </body>
