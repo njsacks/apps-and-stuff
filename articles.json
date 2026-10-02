@@ -1,5 +1,17 @@
 [
   {
+    "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+    "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 02 Oct 2026 17:00:00 +0530"
+  },
+  {
+    "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+    "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 02 Oct 2026 13:31:30 +0530"
+  },
+  {
     "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
     "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
     "source": "The Hacker News",
@@ -16,17 +28,5 @@
     "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
     "source": "The Hacker News",
     "pubDate": "Thu, 01 Oct 2026 22:15:38 +0530"
-  },
-  {
-    "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-    "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 01 Oct 2026 20:07:35 +0530"
-  },
-  {
-    "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
-    "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 01 Oct 2026 17:15:00 +0530"
   }
 ]
