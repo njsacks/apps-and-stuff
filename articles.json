@@ -1,5 +1,11 @@
 [
   {
+    "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+    "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 02 Oct 2026 11:19:50 +0530"
+  },
+  {
     "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
     "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
     "source": "The Hacker News",
@@ -22,11 +28,5 @@
     "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
     "source": "The Hacker News",
     "pubDate": "Thu, 01 Oct 2026 17:15:00 +0530"
-  },
-  {
-    "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-    "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 01 Oct 2026 16:12:36 +0530"
   }
 ]
