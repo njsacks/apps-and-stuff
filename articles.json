@@ -1,5 +1,17 @@
 [
   {
+    "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+    "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 06 Oct 2026 11:30:30 +0530"
+  },
+  {
+    "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+    "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 06 Oct 2026 10:52:55 +0530"
+  },
+  {
     "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
     "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
     "source": "The Hacker News",
@@ -16,17 +28,5 @@
     "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
     "source": "The Hacker News",
     "pubDate": "Mon, 05 Oct 2026 17:25:00 +0530"
-  },
-  {
-    "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-    "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 05 Oct 2026 17:16:25 +0530"
-  },
-  {
-    "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-    "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 05 Oct 2026 16:08:50 +0530"
   }
 ]
