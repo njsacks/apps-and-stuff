@@ -1,32 +1,32 @@
 [
   {
-    "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
-    "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+    "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+    "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 06 Oct 2026 11:30:30 +0530"
+    "pubDate": "Tue, 06 Oct 2026 17:27:00 +0530"
   },
   {
-    "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
-    "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+    "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+    "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 06 Oct 2026 10:52:55 +0530"
+    "pubDate": "Tue, 06 Oct 2026 16:56:25 +0530"
   },
   {
-    "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-    "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+    "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+    "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 05 Oct 2026 21:51:52 +0530"
+    "pubDate": "Tue, 06 Oct 2026 16:32:30 +0530"
   },
   {
-    "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-    "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+    "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+    "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 05 Oct 2026 19:50:43 +0530"
+    "pubDate": "Tue, 06 Oct 2026 14:51:47 +0530"
   },
   {
-    "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-    "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+    "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+    "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 05 Oct 2026 17:25:00 +0530"
+    "pubDate": "Tue, 06 Oct 2026 12:28:56 +0530"
   }
 ]
