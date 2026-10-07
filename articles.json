@@ -1,5 +1,17 @@
 [
   {
+    "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+    "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 07 Oct 2026 00:08:55 +0530"
+  },
+  {
+    "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+    "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 06 Oct 2026 23:54:25 +0530"
+  },
+  {
     "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
     "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
     "source": "The Hacker News",
@@ -16,17 +28,5 @@
     "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
     "source": "The Hacker News",
     "pubDate": "Tue, 06 Oct 2026 16:32:30 +0530"
-  },
-  {
-    "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-    "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-    "source": "The Hacker News",
-    "pubDate": "Tue, 06 Oct 2026 14:51:47 +0530"
-  },
-  {
-    "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-    "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-    "source": "The Hacker News",
-    "pubDate": "Tue, 06 Oct 2026 12:28:56 +0530"
   }
 ]
