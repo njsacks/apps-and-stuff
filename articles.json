@@ -1,5 +1,11 @@
 [
   {
+    "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+    "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 08 Oct 2026 00:18:17 +0530"
+  },
+  {
     "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
     "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
     "source": "The Hacker News",
@@ -22,11 +28,5 @@
     "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
     "source": "The Hacker News",
     "pubDate": "Wed, 07 Oct 2026 21:03:51 +0530"
-  },
-  {
-    "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
-    "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 07 Oct 2026 17:27:05 +0530"
   }
 ]
