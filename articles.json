@@ -1,5 +1,23 @@
 [
   {
+    "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+    "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 08 Oct 2026 21:15:56 +0530"
+  },
+  {
+    "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+    "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 08 Oct 2026 20:56:56 +0530"
+  },
+  {
+    "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+    "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 08 Oct 2026 19:42:34 +0530"
+  },
+  {
     "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
     "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
     "source": "The Hacker News",
@@ -10,23 +28,5 @@
     "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
     "source": "The Hacker News",
     "pubDate": "Thu, 08 Oct 2026 15:16:32 +0530"
-  },
-  {
-    "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-    "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 08 Oct 2026 13:12:04 +0530"
-  },
-  {
-    "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-    "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 08 Oct 2026 13:11:44 +0530"
-  },
-  {
-    "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
-    "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 08 Oct 2026 11:16:20 +0530"
   }
 ]
