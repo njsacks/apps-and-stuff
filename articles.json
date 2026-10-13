@@ -1,32 +1,32 @@
 [
   {
-    "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-    "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+    "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+    "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 13 Oct 2026 17:27:06 +0530"
+    "pubDate": "Tue, 13 Oct 2026 23:50:57 +0530"
   },
   {
-    "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-    "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+    "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+    "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 13 Oct 2026 16:39:10 +0530"
+    "pubDate": "Tue, 13 Oct 2026 23:33:18 +0530"
   },
   {
-    "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-    "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+    "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+    "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 13 Oct 2026 16:00:00 +0530"
+    "pubDate": "Tue, 13 Oct 2026 23:03:11 +0530"
   },
   {
-    "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
-    "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+    "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+    "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 13 Oct 2026 14:18:41 +0530"
+    "pubDate": "Tue, 13 Oct 2026 22:58:50 +0530"
   },
   {
-    "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-    "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+    "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+    "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 13 Oct 2026 14:14:01 +0530"
+    "pubDate": "Tue, 13 Oct 2026 21:48:18 +0530"
   }
 ]
