@@ -1,5 +1,11 @@
 [
   {
+    "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+    "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+    "source": "The Hacker News",
+    "pubDate": "Mon, 12 Oct 2026 20:46:26 +0530"
+  },
+  {
     "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
     "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
     "source": "The Hacker News",
@@ -22,11 +28,5 @@
     "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
     "source": "The Hacker News",
     "pubDate": "Mon, 12 Oct 2026 14:32:14 +0530"
-  },
-  {
-    "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-    "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 12 Oct 2026 12:56:12 +0530"
   }
 ]
