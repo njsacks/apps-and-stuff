@@ -1,32 +1,32 @@
 [
   {
-    "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-    "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+    "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+    "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 14 Oct 2026 13:16:57 +0530"
+    "pubDate": "Wed, 14 Oct 2026 18:00:42 +0530"
   },
   {
-    "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-    "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+    "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+    "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 14 Oct 2026 11:22:28 +0530"
+    "pubDate": "Wed, 14 Oct 2026 17:43:36 +0530"
   },
   {
-    "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-    "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+    "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+    "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 14 Oct 2026 10:04:43 +0530"
+    "pubDate": "Wed, 14 Oct 2026 17:20:00 +0530"
   },
   {
-    "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-    "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+    "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+    "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 14 Oct 2026 07:29:25 +0530"
+    "pubDate": "Wed, 14 Oct 2026 16:49:02 +0530"
   },
   {
-    "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-    "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+    "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+    "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 13 Oct 2026 23:50:57 +0530"
+    "pubDate": "Wed, 14 Oct 2026 16:38:22 +0530"
   }
 ]
