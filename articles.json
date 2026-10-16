@@ -1,5 +1,23 @@
 [
   {
+    "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+    "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 16 Oct 2026 12:25:55 +0530"
+  },
+  {
+    "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+    "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 16 Oct 2026 12:23:09 +0530"
+  },
+  {
+    "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+    "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 16 Oct 2026 10:29:36 +0530"
+  },
+  {
     "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
     "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
     "source": "The Hacker News",
@@ -10,23 +28,5 @@
     "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
     "source": "The Hacker News",
     "pubDate": "Fri, 16 Oct 2026 00:19:33 +0530"
-  },
-  {
-    "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-    "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 15 Oct 2026 21:31:57 +0530"
-  },
-  {
-    "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-    "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 15 Oct 2026 21:30:26 +0530"
-  },
-  {
-    "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-    "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 15 Oct 2026 19:41:36 +0530"
   }
 ]
