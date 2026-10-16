@@ -1,5 +1,17 @@
 [
   {
+    "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+    "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 16 Oct 2026 19:33:04 +0530"
+  },
+  {
+    "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+    "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 16 Oct 2026 17:00:00 +0530"
+  },
+  {
     "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
     "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
     "source": "The Hacker News",
@@ -16,17 +28,5 @@
     "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
     "source": "The Hacker News",
     "pubDate": "Fri, 16 Oct 2026 10:29:36 +0530"
-  },
-  {
-    "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-    "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 16 Oct 2026 01:54:36 +0530"
-  },
-  {
-    "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-    "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 16 Oct 2026 00:19:33 +0530"
   }
 ]
