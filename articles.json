@@ -1,5 +1,11 @@
 [
   {
+    "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+    "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+    "source": "The Hacker News",
+    "pubDate": "Sat, 17 Oct 2026 11:46:46 +0530"
+  },
+  {
     "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
     "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
     "source": "The Hacker News",
@@ -22,11 +28,5 @@
     "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
     "source": "The Hacker News",
     "pubDate": "Fri, 16 Oct 2026 19:33:04 +0530"
-  },
-  {
-    "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-    "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 16 Oct 2026 17:00:00 +0530"
   }
 ]
