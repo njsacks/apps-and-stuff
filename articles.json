@@ -1,32 +1,32 @@
 [
   {
+    "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+    "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 21 Oct 2026 19:30:00 +0530"
+  },
+  {
+    "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+    "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 21 Oct 2026 18:45:09 +0530"
+  },
+  {
+    "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+    "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 21 Oct 2026 17:35:00 +0530"
+  },
+  {
+    "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+    "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 21 Oct 2026 17:23:34 +0530"
+  },
+  {
     "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
     "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
     "source": "The Hacker News",
     "pubDate": "Wed, 21 Oct 2026 16:06:53 +0530"
-  },
-  {
-    "title": "The Harness Is the Hard Part of Agentic Pentesting",
-    "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 21 Oct 2026 16:02:40 +0530"
-  },
-  {
-    "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-    "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 21 Oct 2026 16:00:27 +0530"
-  },
-  {
-    "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-    "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 21 Oct 2026 14:35:17 +0530"
-  },
-  {
-    "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-    "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 21 Oct 2026 14:31:12 +0530"
   }
 ]
