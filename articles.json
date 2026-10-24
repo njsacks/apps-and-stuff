@@ -1,32 +1,32 @@
 [
   {
+    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+    "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+    "source": "The Hacker News",
+    "pubDate": "Sat, 24 Oct 2026 16:39:29 +0530"
+  },
+  {
+    "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+    "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+    "source": "The Hacker News",
+    "pubDate": "Sat, 24 Oct 2026 16:33:33 +0530"
+  },
+  {
+    "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+    "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+    "source": "The Hacker News",
+    "pubDate": "Sat, 24 Oct 2026 16:06:33 +0530"
+  },
+  {
     "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
     "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
     "source": "The Hacker News",
     "pubDate": "Sat, 24 Oct 2026 14:34:24 +0530"
   },
   {
-    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-    "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-    "source": "The Hacker News",
-    "pubDate": "Sat, 24 Oct 2026 14:15:56 +0530"
-  },
-  {
     "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
     "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
     "source": "The Hacker News",
     "pubDate": "Sat, 24 Oct 2026 11:55:57 +0530"
-  },
-  {
-    "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-    "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-    "source": "The Hacker News",
-    "pubDate": "Sat, 24 Oct 2026 00:20:13 +0530"
-  },
-  {
-    "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-    "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 23 Oct 2026 23:24:08 +0530"
   }
 ]
