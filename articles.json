@@ -1,5 +1,17 @@
 [
   {
+    "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+    "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+    "source": "The Hacker News",
+    "pubDate": "Sun, 25 Oct 2026 23:14:09 +0530"
+  },
+  {
+    "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+    "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+    "source": "The Hacker News",
+    "pubDate": "Sun, 25 Oct 2026 22:49:46 +0530"
+  },
+  {
     "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
     "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
     "source": "The Hacker News",
@@ -16,17 +28,5 @@
     "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
     "source": "The Hacker News",
     "pubDate": "Sat, 24 Oct 2026 16:33:33 +0530"
-  },
-  {
-    "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-    "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-    "source": "The Hacker News",
-    "pubDate": "Sat, 24 Oct 2026 16:06:33 +0530"
-  },
-  {
-    "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-    "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-    "source": "The Hacker News",
-    "pubDate": "Sat, 24 Oct 2026 14:34:24 +0530"
   }
 ]
