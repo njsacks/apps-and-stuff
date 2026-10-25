@@ -1,5 +1,11 @@
 [
   {
+    "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+    "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+    "source": "The Hacker News",
+    "pubDate": "Sun, 25 Oct 2026 12:24:29 +0530"
+  },
+  {
     "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
     "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
     "source": "The Hacker News",
@@ -22,11 +28,5 @@
     "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
     "source": "The Hacker News",
     "pubDate": "Sat, 24 Oct 2026 14:34:24 +0530"
-  },
-  {
-    "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-    "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-    "source": "The Hacker News",
-    "pubDate": "Sat, 24 Oct 2026 11:55:57 +0530"
   }
 ]
