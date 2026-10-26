@@ -1,32 +1,32 @@
 [
   {
-    "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-    "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+    "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+    "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
     "source": "The Hacker News",
-    "pubDate": "Sun, 25 Oct 2026 23:14:09 +0530"
+    "pubDate": "Mon, 26 Oct 2026 16:53:56 +0530"
   },
   {
-    "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-    "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+    "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+    "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
     "source": "The Hacker News",
-    "pubDate": "Sun, 25 Oct 2026 22:49:46 +0530"
+    "pubDate": "Mon, 26 Oct 2026 15:24:02 +0530"
   },
   {
-    "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-    "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+    "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+    "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
     "source": "The Hacker News",
-    "pubDate": "Sun, 25 Oct 2026 12:24:29 +0530"
+    "pubDate": "Mon, 26 Oct 2026 14:05:51 +0530"
   },
   {
-    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-    "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+    "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+    "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
     "source": "The Hacker News",
-    "pubDate": "Sat, 24 Oct 2026 16:39:29 +0530"
+    "pubDate": "Mon, 26 Oct 2026 13:19:46 +0530"
   },
   {
-    "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-    "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+    "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+    "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
     "source": "The Hacker News",
-    "pubDate": "Sat, 24 Oct 2026 16:33:33 +0530"
+    "pubDate": "Mon, 26 Oct 2026 11:33:48 +0530"
   }
 ]
