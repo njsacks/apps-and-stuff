@@ -1,32 +1,32 @@
 [
   {
-    "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-    "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+    "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+    "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 27 Oct 2026 15:03:06 +0530"
+    "pubDate": "Tue, 27 Oct 2026 19:29:48 +0530"
   },
   {
-    "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-    "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+    "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+    "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 27 Oct 2026 13:52:43 +0530"
+    "pubDate": "Tue, 27 Oct 2026 19:29:09 +0530"
   },
   {
-    "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-    "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+    "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+    "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 27 Oct 2026 12:04:47 +0530"
+    "pubDate": "Tue, 27 Oct 2026 17:39:50 +0530"
   },
   {
-    "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-    "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+    "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+    "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 27 Oct 2026 10:07:59 +0530"
+    "pubDate": "Tue, 27 Oct 2026 17:16:00 +0530"
   },
   {
-    "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-    "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+    "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+    "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 26 Oct 2026 23:42:22 +0530"
+    "pubDate": "Tue, 27 Oct 2026 17:02:46 +0530"
   }
 ]
