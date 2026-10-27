@@ -1,32 +1,32 @@
 [
   {
+    "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+    "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 27 Oct 2026 15:03:06 +0530"
+  },
+  {
+    "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+    "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 27 Oct 2026 13:52:43 +0530"
+  },
+  {
+    "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+    "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 27 Oct 2026 12:04:47 +0530"
+  },
+  {
+    "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+    "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 27 Oct 2026 10:07:59 +0530"
+  },
+  {
     "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
     "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
     "source": "The Hacker News",
     "pubDate": "Mon, 26 Oct 2026 23:42:22 +0530"
-  },
-  {
-    "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-    "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 26 Oct 2026 23:15:57 +0530"
-  },
-  {
-    "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-    "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 26 Oct 2026 21:22:40 +0530"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-    "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 26 Oct 2026 19:36:13 +0530"
-  },
-  {
-    "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-    "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 26 Oct 2026 17:22:41 +0530"
   }
 ]
