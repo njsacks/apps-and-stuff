@@ -1,5 +1,11 @@
 [
   {
+    "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+    "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 27 Oct 2026 23:56:46 +0530"
+  },
+  {
     "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
     "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
     "source": "The Hacker News",
@@ -22,11 +28,5 @@
     "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
     "source": "The Hacker News",
     "pubDate": "Tue, 27 Oct 2026 17:16:00 +0530"
-  },
-  {
-    "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-    "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-    "source": "The Hacker News",
-    "pubDate": "Tue, 27 Oct 2026 17:02:46 +0530"
   }
 ]
