@@ -1,32 +1,32 @@
 [
   {
-    "title": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-    "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+    "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+    "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 02 Nov 2026 22:27:56 +0530"
+    "pubDate": "Tue, 03 Nov 2026 16:53:53 +0530"
   },
   {
-    "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-    "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+    "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+    "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 02 Nov 2026 21:20:26 +0530"
+    "pubDate": "Tue, 03 Nov 2026 16:48:20 +0530"
   },
   {
-    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-    "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+    "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+    "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 02 Nov 2026 20:16:05 +0530"
+    "pubDate": "Tue, 03 Nov 2026 16:30:45 +0530"
   },
   {
-    "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-    "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+    "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 02 Nov 2026 17:20:00 +0530"
+    "pubDate": "Tue, 03 Nov 2026 14:01:48 +0530"
   },
   {
-    "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-    "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+    "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+    "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 02 Nov 2026 17:00:00 +0530"
+    "pubDate": "Tue, 03 Nov 2026 13:13:07 +0530"
   }
 ]
