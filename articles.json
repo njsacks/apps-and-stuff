@@ -1,32 +1,32 @@
 [
   {
+    "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+    "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 04 Nov 2026 22:30:46 +0530"
+  },
+  {
+    "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+    "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 04 Nov 2026 22:30:38 +0530"
+  },
+  {
+    "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+    "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 04 Nov 2026 21:36:43 +0530"
+  },
+  {
+    "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+    "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 04 Nov 2026 19:57:52 +0530"
+  },
+  {
     "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
     "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
     "source": "The Hacker News",
     "pubDate": "Wed, 04 Nov 2026 17:37:04 +0530"
-  },
-  {
-    "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-    "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 04 Nov 2026 17:16:27 +0530"
-  },
-  {
-    "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-    "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 04 Nov 2026 17:04:20 +0530"
-  },
-  {
-    "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-    "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 04 Nov 2026 16:54:31 +0530"
-  },
-  {
-    "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-    "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 04 Nov 2026 13:47:11 +0530"
   }
 ]
