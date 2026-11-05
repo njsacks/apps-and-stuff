@@ -1,5 +1,23 @@
 [
   {
+    "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+    "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 05 Nov 2026 22:12:46 +0530"
+  },
+  {
+    "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+    "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 05 Nov 2026 22:12:32 +0530"
+  },
+  {
+    "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+    "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 05 Nov 2026 20:11:10 +0530"
+  },
+  {
     "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
     "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
     "source": "The Hacker News",
@@ -10,23 +28,5 @@
     "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
     "source": "The Hacker News",
     "pubDate": "Thu, 05 Nov 2026 17:38:54 +0530"
-  },
-  {
-    "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-    "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 05 Nov 2026 15:36:19 +0530"
-  },
-  {
-    "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-    "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 05 Nov 2026 14:43:28 +0530"
-  },
-  {
-    "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-    "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 05 Nov 2026 14:12:03 +0530"
   }
 ]
