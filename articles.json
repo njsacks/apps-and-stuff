@@ -1,5 +1,23 @@
 [
   {
+    "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+    "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 06 Nov 2026 21:38:38 +0530"
+  },
+  {
+    "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+    "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 06 Nov 2026 20:51:49 +0530"
+  },
+  {
+    "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+    "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 06 Nov 2026 20:28:32 +0530"
+  },
+  {
     "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
     "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
     "source": "The Hacker News",
@@ -10,23 +28,5 @@
     "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
     "source": "The Hacker News",
     "pubDate": "Fri, 06 Nov 2026 17:36:35 +0530"
-  },
-  {
-    "title": "The Flood is Coming And The Pipes Were Already Full",
-    "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 06 Nov 2026 17:00:00 +0530"
-  },
-  {
-    "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-    "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 06 Nov 2026 13:34:49 +0530"
-  },
-  {
-    "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-    "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 06 Nov 2026 11:28:54 +0530"
   }
 ]
