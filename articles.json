@@ -1,5 +1,11 @@
 [
   {
+    "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+    "source": "The Hacker News",
+    "pubDate": "Sat, 07 Nov 2026 12:14:17 +0530"
+  },
+  {
     "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
     "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
     "source": "The Hacker News",
@@ -22,11 +28,5 @@
     "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
     "source": "The Hacker News",
     "pubDate": "Fri, 06 Nov 2026 17:36:43 +0530"
-  },
-  {
-    "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-    "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 06 Nov 2026 17:36:35 +0530"
   }
 ]
