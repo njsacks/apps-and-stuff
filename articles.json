@@ -1,32 +1,32 @@
 [
   {
-    "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-    "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+    "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+    "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
     "source": "The Hacker News",
-    "pubDate": "Sat, 07 Nov 2026 12:14:17 +0530"
+    "pubDate": "Mon, 09 Nov 2026 20:01:29 +0530"
   },
   {
-    "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-    "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+    "title": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+    "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
     "source": "The Hacker News",
-    "pubDate": "Fri, 06 Nov 2026 21:38:38 +0530"
+    "pubDate": "Mon, 09 Nov 2026 18:58:25 +0530"
   },
   {
-    "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-    "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+    "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+    "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
     "source": "The Hacker News",
-    "pubDate": "Fri, 06 Nov 2026 20:51:49 +0530"
+    "pubDate": "Mon, 09 Nov 2026 16:57:53 +0530"
   },
   {
-    "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-    "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+    "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+    "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
     "source": "The Hacker News",
-    "pubDate": "Fri, 06 Nov 2026 20:28:32 +0530"
+    "pubDate": "Mon, 09 Nov 2026 16:26:25 +0530"
   },
   {
-    "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-    "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+    "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+    "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
     "source": "The Hacker News",
-    "pubDate": "Fri, 06 Nov 2026 17:36:43 +0530"
+    "pubDate": "Mon, 09 Nov 2026 15:31:21 +0530"
   }
 ]
