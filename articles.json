@@ -1,5 +1,17 @@
 [
   {
+    "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+    "source": "The Hacker News",
+    "pubDate": "Mon, 09 Nov 2026 23:21:21 +0530"
+  },
+  {
+    "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+    "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+    "source": "The Hacker News",
+    "pubDate": "Mon, 09 Nov 2026 23:06:28 +0530"
+  },
+  {
     "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
     "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
     "source": "The Hacker News",
@@ -16,17 +28,5 @@
     "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
     "source": "The Hacker News",
     "pubDate": "Mon, 09 Nov 2026 16:57:53 +0530"
-  },
-  {
-    "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-    "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 09 Nov 2026 16:26:25 +0530"
-  },
-  {
-    "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-    "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 09 Nov 2026 15:31:21 +0530"
   }
 ]
