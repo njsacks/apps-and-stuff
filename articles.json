@@ -1,32 +1,32 @@
 [
   {
-    "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-    "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+    "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+    "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 11 Nov 2026 21:42:46 +0530"
+    "pubDate": "Thu, 12 Nov 2026 17:39:14 +0530"
   },
   {
-    "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-    "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+    "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+    "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 11 Nov 2026 21:04:27 +0530"
+    "pubDate": "Thu, 12 Nov 2026 17:32:51 +0530"
   },
   {
-    "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-    "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+    "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+    "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 11 Nov 2026 19:31:00 +0530"
+    "pubDate": "Thu, 12 Nov 2026 17:21:43 +0530"
   },
   {
-    "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-    "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+    "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+    "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 11 Nov 2026 17:49:40 +0530"
+    "pubDate": "Thu, 12 Nov 2026 17:21:31 +0530"
   },
   {
-    "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-    "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+    "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+    "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 11 Nov 2026 17:31:59 +0530"
+    "pubDate": "Thu, 12 Nov 2026 17:03:15 +0530"
   }
 ]
