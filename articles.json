@@ -1,5 +1,23 @@
 [
   {
+    "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+    "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 11 Nov 2026 21:42:46 +0530"
+  },
+  {
+    "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+    "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 11 Nov 2026 21:04:27 +0530"
+  },
+  {
+    "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+    "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 11 Nov 2026 19:31:00 +0530"
+  },
+  {
     "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
     "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
     "source": "The Hacker News",
@@ -10,23 +28,5 @@
     "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
     "source": "The Hacker News",
     "pubDate": "Wed, 11 Nov 2026 17:31:59 +0530"
-  },
-  {
-    "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-    "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 11 Nov 2026 17:30:53 +0530"
-  },
-  {
-    "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-    "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 11 Nov 2026 13:47:53 +0530"
-  },
-  {
-    "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-    "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 11 Nov 2026 13:19:04 +0530"
   }
 ]
