@@ -1,32 +1,32 @@
 [
   {
-    "title": "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-    "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+    "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+    "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
     "source": "The Hacker News",
-    "pubDate": "Sun, 15 Nov 2026 16:57:31 +0530"
+    "pubDate": "Mon, 16 Nov 2026 18:04:21 +0530"
   },
   {
-    "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-    "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+    "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+    "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
     "source": "The Hacker News",
-    "pubDate": "Sun, 15 Nov 2026 13:52:04 +0530"
+    "pubDate": "Mon, 16 Nov 2026 18:03:18 +0530"
   },
   {
-    "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-    "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+    "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+    "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
     "source": "The Hacker News",
-    "pubDate": "Sat, 14 Nov 2026 18:08:35 +0530"
+    "pubDate": "Mon, 16 Nov 2026 15:02:57 +0530"
   },
   {
-    "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-    "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+    "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+    "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
     "source": "The Hacker News",
-    "pubDate": "Fri, 13 Nov 2026 22:23:08 +0530"
+    "pubDate": "Mon, 16 Nov 2026 13:04:21 +0530"
   },
   {
-    "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-    "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+    "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+    "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
     "source": "The Hacker News",
-    "pubDate": "Fri, 13 Nov 2026 20:57:05 +0530"
+    "pubDate": "Mon, 16 Nov 2026 12:23:34 +0530"
   }
 ]
