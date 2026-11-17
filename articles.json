@@ -1,5 +1,17 @@
 [
   {
+    "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+    "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+    "source": "The Hacker News",
+    "pubDate": "Mon, 16 Nov 2026 19:30:00 +0530"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+    "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+    "source": "The Hacker News",
+    "pubDate": "Mon, 16 Nov 2026 18:57:20 +0530"
+  },
+  {
     "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
     "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
     "source": "The Hacker News",
@@ -16,17 +28,5 @@
     "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
     "source": "The Hacker News",
     "pubDate": "Mon, 16 Nov 2026 15:02:57 +0530"
-  },
-  {
-    "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-    "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 16 Nov 2026 13:04:21 +0530"
-  },
-  {
-    "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-    "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 16 Nov 2026 12:23:34 +0530"
   }
 ]
