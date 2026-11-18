@@ -1,32 +1,62 @@
 [
   {
-    "title": "Researchers Claim Two RCE Exploits That Bypass Telegram\u2019s New Android Defenses",
-    "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+    "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+    "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 18 Nov 2026 01:04:20 +0530"
+    "pubDate": "Wed, 18 Nov 2026 19:41:28 +0530"
   },
   {
-    "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-    "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+    "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+    "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 17 Nov 2026 20:47:36 +0530"
+    "pubDate": "Wed, 18 Nov 2026 17:58:30 +0530"
   },
   {
-    "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-    "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+    "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+    "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 17 Nov 2026 20:47:28 +0530"
+    "pubDate": "Wed, 18 Nov 2026 17:45:00 +0530"
   },
   {
-    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-    "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+    "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+    "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 17 Nov 2026 17:55:06 +0530"
+    "pubDate": "Wed, 18 Nov 2026 17:25:49 +0530"
   },
   {
-    "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-    "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+    "title": "Quality Isn\u2019t The Main Worry About AI Pentesting \u2014 Data Privacy and Production Safety Are",
+    "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 17 Nov 2026 17:44:36 +0530"
+    "pubDate": "Wed, 18 Nov 2026 16:33:57 +0530"
+  },
+  {
+    "title": "Siemens ROS#",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+    "source": "CISA Alerts",
+    "pubDate": "Tue, 17 Nov 26 12:00:00 +0000"
+  },
+  {
+    "title": "Dorsett Controls InfoScan",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+    "source": "CISA Alerts",
+    "pubDate": "Tue, 17 Nov 26 12:00:00 +0000"
+  },
+  {
+    "title": "Siemens Mendix Studio Pro",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
+    "source": "CISA Alerts",
+    "pubDate": "Tue, 17 Nov 26 12:00:00 +0000"
+  },
+  {
+    "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
+    "source": "CISA Alerts",
+    "pubDate": "Tue, 17 Nov 26 12:00:00 +0000"
+  },
+  {
+    "title": "Critical Java Vulnerability Requires Immediate Patching",
+    "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+    "source": "CISA Alerts",
+    "pubDate": "Tue, 17 Nov 26 12:00:00 +0000"
   }
 ]
