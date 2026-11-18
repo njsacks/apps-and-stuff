@@ -1,5 +1,23 @@
 [
   {
+    "title": "Researchers Claim Two RCE Exploits That Bypass Telegram\u2019s New Android Defenses",
+    "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 18 Nov 2026 01:04:20 +0530"
+  },
+  {
+    "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+    "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 17 Nov 2026 20:47:36 +0530"
+  },
+  {
+    "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+    "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 17 Nov 2026 20:47:28 +0530"
+  },
+  {
     "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
     "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
     "source": "The Hacker News",
@@ -10,23 +28,5 @@
     "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
     "source": "The Hacker News",
     "pubDate": "Tue, 17 Nov 2026 17:44:36 +0530"
-  },
-  {
-    "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-    "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-    "source": "The Hacker News",
-    "pubDate": "Tue, 17 Nov 2026 16:50:18 +0530"
-  },
-  {
-    "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-    "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-    "source": "The Hacker News",
-    "pubDate": "Tue, 17 Nov 2026 16:37:31 +0530"
-  },
-  {
-    "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-    "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-    "source": "The Hacker News",
-    "pubDate": "Tue, 17 Nov 2026 12:42:13 +0530"
   }
 ]
