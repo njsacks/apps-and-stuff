@@ -1,33 +1,51 @@
 [
   {
-    "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-    "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+    "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+    "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
     "source": "The Hacker News",
-    "pubDate": "Thu, 19 Nov 2026 10:03:46 +0530"
+    "pubDate": "Thu, 19 Nov 2026 22:29:56 +0530"
   },
   {
-    "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-    "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+    "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+    "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
     "source": "The Hacker News",
-    "pubDate": "Thu, 19 Nov 2026 00:01:17 +0530"
+    "pubDate": "Thu, 19 Nov 2026 20:48:07 +0530"
   },
   {
-    "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-    "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+    "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+    "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 18 Nov 2026 23:45:39 +0530"
+    "pubDate": "Thu, 19 Nov 2026 20:41:06 +0530"
   },
   {
-    "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-    "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+    "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+    "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 18 Nov 2026 22:40:45 +0530"
+    "pubDate": "Thu, 19 Nov 2026 20:03:06 +0530"
   },
   {
-    "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-    "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+    "title": "Everything Is a Web Application, Including Your Firewall",
+    "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
     "source": "The Hacker News",
-    "pubDate": "Wed, 18 Nov 2026 19:41:28 +0530"
+    "pubDate": "Thu, 19 Nov 2026 17:22:23 +0530"
+  },
+  {
+    "title": "Elecbrakes EB2, VM1, ELBC2000",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
+    "source": "CISA Alerts",
+    "pubDate": "Thu, 19 Nov 26 12:00:00 +0000"
+  },
+  {
+    "title": "libumqtt",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+    "source": "CISA Alerts",
+    "pubDate": "Thu, 19 Nov 26 12:00:00 +0000"
+  },
+  {
+    "title": "Autonomy Logic OpenPLC Runtime",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
+    "source": "CISA Alerts",
+    "pubDate": "Thu, 19 Nov 26 12:00:00 +0000"
   },
   {
     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
@@ -36,26 +54,8 @@
     "pubDate": "Wed, 18 Nov 26 12:00:00 +0000"
   },
   {
-    "title": "Siemens ROS#",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
-    "source": "CISA Alerts",
-    "pubDate": "Tue, 17 Nov 26 12:00:00 +0000"
-  },
-  {
-    "title": "Dorsett Controls InfoScan",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
-    "source": "CISA Alerts",
-    "pubDate": "Tue, 17 Nov 26 12:00:00 +0000"
-  },
-  {
-    "title": "Siemens Mendix Studio Pro",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
-    "source": "CISA Alerts",
-    "pubDate": "Tue, 17 Nov 26 12:00:00 +0000"
-  },
-  {
-    "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
+    "title": "Siemens Simcenter Femap",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
     "source": "CISA Alerts",
     "pubDate": "Tue, 17 Nov 26 12:00:00 +0000"
   }
