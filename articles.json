@@ -1,5 +1,11 @@
 [
   {
+    "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+    "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 19 Nov 2026 10:03:46 +0530"
+  },
+  {
     "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
     "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
     "source": "The Hacker News",
@@ -22,12 +28,6 @@
     "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
     "source": "The Hacker News",
     "pubDate": "Wed, 18 Nov 2026 19:41:28 +0530"
-  },
-  {
-    "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-    "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 18 Nov 2026 17:58:30 +0530"
   },
   {
     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
