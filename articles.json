@@ -1,5 +1,17 @@
 [
   {
+    "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+    "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 20 Nov 2026 23:27:20 +0530"
+  },
+  {
+    "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+    "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 20 Nov 2026 22:28:16 +0530"
+  },
+  {
     "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
     "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
     "source": "The Hacker News",
@@ -18,16 +30,10 @@
     "pubDate": "Fri, 20 Nov 2026 16:08:22 +0530"
   },
   {
-    "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 20 Nov 2026 16:02:50 +0530"
-  },
-  {
-    "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-    "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 20 Nov 2026 15:08:15 +0530"
+    "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+    "link": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+    "source": "CISA Alerts",
+    "pubDate": "Fri, 20 Nov 26 12:00:00 +0000"
   },
   {
     "title": "Elecbrakes EB2, VM1, ELBC2000",
@@ -52,11 +58,5 @@
     "link": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
     "source": "CISA Alerts",
     "pubDate": "Wed, 18 Nov 26 12:00:00 +0000"
-  },
-  {
-    "title": "Siemens Simcenter Femap",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
-    "source": "CISA Alerts",
-    "pubDate": "Tue, 17 Nov 26 12:00:00 +0000"
   }
 ]
