@@ -1,33 +1,33 @@
 [
   {
-    "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-    "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+    "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+    "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
     "source": "The Hacker News",
-    "pubDate": "Fri, 20 Nov 2026 11:00:01 +0530"
+    "pubDate": "Fri, 20 Nov 2026 17:50:00 +0530"
   },
   {
-    "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-    "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+    "title": "The Path to AI Autonomy in the SOC",
+    "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
     "source": "The Hacker News",
-    "pubDate": "Fri, 20 Nov 2026 00:17:58 +0530"
+    "pubDate": "Fri, 20 Nov 2026 17:30:00 +0530"
   },
   {
-    "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-    "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+    "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+    "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
     "source": "The Hacker News",
-    "pubDate": "Thu, 19 Nov 2026 22:29:56 +0530"
+    "pubDate": "Fri, 20 Nov 2026 16:08:22 +0530"
   },
   {
-    "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-    "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+    "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
     "source": "The Hacker News",
-    "pubDate": "Thu, 19 Nov 2026 20:48:07 +0530"
+    "pubDate": "Fri, 20 Nov 2026 16:02:50 +0530"
   },
   {
-    "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-    "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+    "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+    "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
     "source": "The Hacker News",
-    "pubDate": "Thu, 19 Nov 2026 20:41:06 +0530"
+    "pubDate": "Fri, 20 Nov 2026 15:08:15 +0530"
   },
   {
     "title": "Elecbrakes EB2, VM1, ELBC2000",
