@@ -1,5 +1,17 @@
 [
   {
+    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "source": "The Hacker News",
+    "pubDate": "Sun, 22 Nov 2026 10:36:55 +0530"
+  },
+  {
+    "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "source": "The Hacker News",
+    "pubDate": "Sun, 22 Nov 2026 10:33:41 +0530"
+  },
+  {
     "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
     "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
     "source": "The Hacker News",
@@ -16,18 +28,6 @@
     "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
     "source": "The Hacker News",
     "pubDate": "Sat, 21 Nov 2026 16:33:17 +0530"
-  },
-  {
-    "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-    "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-    "source": "The Hacker News",
-    "pubDate": "Sat, 21 Nov 2026 14:19:20 +0530"
-  },
-  {
-    "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-    "source": "The Hacker News",
-    "pubDate": "Sat, 21 Nov 2026 14:19:13 +0530"
   },
   {
     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
