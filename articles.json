@@ -1,33 +1,39 @@
 [
   {
-    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-    "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+    "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
     "source": "The Hacker News",
-    "pubDate": "Sun, 22 Nov 2026 10:36:55 +0530"
+    "pubDate": "Mon, 23 Nov 2026 23:15:15 +0530"
   },
   {
-    "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
-    "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "title": "\u26a1 Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+    "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
     "source": "The Hacker News",
-    "pubDate": "Sun, 22 Nov 2026 10:33:41 +0530"
+    "pubDate": "Mon, 23 Nov 2026 20:40:48 +0530"
   },
   {
-    "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-    "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+    "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+    "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
     "source": "The Hacker News",
-    "pubDate": "Sat, 21 Nov 2026 17:23:07 +0530"
+    "pubDate": "Mon, 23 Nov 2026 18:52:20 +0530"
   },
   {
-    "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-    "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+    "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
     "source": "The Hacker News",
-    "pubDate": "Sat, 21 Nov 2026 16:35:53 +0530"
+    "pubDate": "Mon, 23 Nov 2026 18:11:04 +0530"
   },
   {
-    "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-    "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+    "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+    "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
     "source": "The Hacker News",
-    "pubDate": "Sat, 21 Nov 2026 16:33:17 +0530"
+    "pubDate": "Mon, 23 Nov 2026 17:58:09 +0530"
+  },
+  {
+    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+    "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "source": "CISA Alerts",
+    "pubDate": "Mon, 23 Nov 26 12:00:00 +0000"
   },
   {
     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
@@ -52,11 +58,5 @@
     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
     "source": "CISA Alerts",
     "pubDate": "Thu, 19 Nov 26 12:00:00 +0000"
-  },
-  {
-    "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-    "source": "CISA Alerts",
-    "pubDate": "Wed, 18 Nov 26 12:00:00 +0000"
   }
 ]
