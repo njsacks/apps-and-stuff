@@ -1,5 +1,17 @@
 [
   {
+    "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+    "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 24 Nov 2026 11:32:57 +0530"
+  },
+  {
+    "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+    "source": "The Hacker News",
+    "pubDate": "Tue, 24 Nov 2026 11:32:45 +0530"
+  },
+  {
     "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
     "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
     "source": "The Hacker News",
@@ -16,18 +28,6 @@
     "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
     "source": "The Hacker News",
     "pubDate": "Mon, 23 Nov 2026 18:52:20 +0530"
-  },
-  {
-    "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 23 Nov 2026 18:11:04 +0530"
-  },
-  {
-    "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-    "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-    "source": "The Hacker News",
-    "pubDate": "Mon, 23 Nov 2026 17:58:09 +0530"
   },
   {
     "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
