@@ -1,62 +1,62 @@
 [
   {
-    "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
-    "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+    "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+    "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 24 Nov 2026 11:32:57 +0530"
+    "pubDate": "Tue, 24 Nov 2026 22:24:07 +0530"
   },
   {
-    "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+    "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+    "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
     "source": "The Hacker News",
-    "pubDate": "Tue, 24 Nov 2026 11:32:45 +0530"
+    "pubDate": "Tue, 24 Nov 2026 18:58:26 +0530"
   },
   {
-    "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-    "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+    "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+    "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 23 Nov 2026 23:15:15 +0530"
+    "pubDate": "Tue, 24 Nov 2026 18:58:21 +0530"
   },
   {
-    "title": "\u26a1 Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-    "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+    "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 23 Nov 2026 20:40:48 +0530"
+    "pubDate": "Tue, 24 Nov 2026 18:12:09 +0530"
   },
   {
-    "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-    "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+    "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+    "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
     "source": "The Hacker News",
-    "pubDate": "Mon, 23 Nov 2026 18:52:20 +0530"
+    "pubDate": "Tue, 24 Nov 2026 17:32:00 +0530"
+  },
+  {
+    "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+    "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+    "source": "CISA Alerts",
+    "pubDate": "Tue, 24 Nov 26 12:00:00 +0000"
+  },
+  {
+    "title": "Danfoss AK-SM 8xxA Series",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+    "source": "CISA Alerts",
+    "pubDate": "Tue, 24 Nov 26 12:00:00 +0000"
+  },
+  {
+    "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+    "source": "CISA Alerts",
+    "pubDate": "Tue, 24 Nov 26 12:00:00 +0000"
+  },
+  {
+    "title": "AutomationDirect C-More EA9 Programming Software",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+    "source": "CISA Alerts",
+    "pubDate": "Tue, 24 Nov 26 12:00:00 +0000"
   },
   {
     "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
     "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
     "source": "CISA Alerts",
     "pubDate": "Mon, 23 Nov 26 12:00:00 +0000"
-  },
-  {
-    "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-    "source": "CISA Alerts",
-    "pubDate": "Fri, 20 Nov 26 12:00:00 +0000"
-  },
-  {
-    "title": "Elecbrakes EB2, VM1, ELBC2000",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
-    "source": "CISA Alerts",
-    "pubDate": "Thu, 19 Nov 26 12:00:00 +0000"
-  },
-  {
-    "title": "libumqtt",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-    "source": "CISA Alerts",
-    "pubDate": "Thu, 19 Nov 26 12:00:00 +0000"
-  },
-  {
-    "title": "Autonomy Logic OpenPLC Runtime",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
-    "source": "CISA Alerts",
-    "pubDate": "Thu, 19 Nov 26 12:00:00 +0000"
   }
 ]
