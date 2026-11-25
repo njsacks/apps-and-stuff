@@ -1,5 +1,23 @@
 [
   {
+    "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+    "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 25 Nov 2026 12:20:19 +0530"
+  },
+  {
+    "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+    "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 25 Nov 2026 12:07:06 +0530"
+  },
+  {
+    "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+    "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+    "source": "The Hacker News",
+    "pubDate": "Wed, 25 Nov 2026 11:51:12 +0530"
+  },
+  {
     "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
     "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
     "source": "The Hacker News",
@@ -10,24 +28,6 @@
     "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
     "source": "The Hacker News",
     "pubDate": "Tue, 24 Nov 2026 18:58:26 +0530"
-  },
-  {
-    "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-    "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-    "source": "The Hacker News",
-    "pubDate": "Tue, 24 Nov 2026 18:58:21 +0530"
-  },
-  {
-    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-    "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-    "source": "The Hacker News",
-    "pubDate": "Tue, 24 Nov 2026 18:12:09 +0530"
-  },
-  {
-    "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-    "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-    "source": "The Hacker News",
-    "pubDate": "Tue, 24 Nov 2026 17:32:00 +0530"
   },
   {
     "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
