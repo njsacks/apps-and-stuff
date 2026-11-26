@@ -1,33 +1,33 @@
 [
   {
+    "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+    "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 27 Nov 2026 01:09:57 +0530"
+  },
+  {
+    "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+    "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 26 Nov 2026 20:43:41 +0530"
+  },
+  {
+    "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+    "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 26 Nov 2026 16:27:55 +0530"
+  },
+  {
     "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
     "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
     "source": "The Hacker News",
-    "pubDate": "Thu, 26 Nov 2026 09:50:22 +0530"
+    "pubDate": "Thu, 26 Nov 2026 16:27:25 +0530"
   },
   {
-    "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-    "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+    "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+    "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
     "source": "The Hacker News",
-    "pubDate": "Thu, 26 Nov 2026 09:18:52 +0530"
-  },
-  {
-    "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-    "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 25 Nov 2026 18:18:54 +0530"
-  },
-  {
-    "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-    "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 25 Nov 2026 18:00:08 +0530"
-  },
-  {
-    "title": "Credential Remediation Is Slow When You Don\u2019t Know What Will Break",
-    "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 25 Nov 2026 17:21:48 +0530"
+    "pubDate": "Thu, 26 Nov 2026 12:32:34 +0530"
   },
   {
     "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
