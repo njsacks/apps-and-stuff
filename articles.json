@@ -1,5 +1,17 @@
 [
   {
+    "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+    "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 26 Nov 2026 09:50:22 +0530"
+  },
+  {
+    "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+    "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+    "source": "The Hacker News",
+    "pubDate": "Thu, 26 Nov 2026 09:18:52 +0530"
+  },
+  {
     "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
     "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
     "source": "The Hacker News",
@@ -18,26 +30,20 @@
     "pubDate": "Wed, 25 Nov 2026 17:21:48 +0530"
   },
   {
-    "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-    "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 25 Nov 2026 16:53:26 +0530"
+    "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+    "link": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+    "source": "CISA Alerts",
+    "pubDate": "Wed, 25 Nov 26 12:00:00 +0000"
   },
   {
-    "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-    "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-    "source": "The Hacker News",
-    "pubDate": "Wed, 25 Nov 2026 16:13:07 +0530"
-  },
-  {
-    "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+    "title": "AutomationDirect C-More EA9 Programming Software",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
     "source": "CISA Alerts",
     "pubDate": "Tue, 24 Nov 26 12:00:00 +0000"
   },
   {
-    "title": "Danfoss AK-SM 8xxA Series",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+    "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+    "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
     "source": "CISA Alerts",
     "pubDate": "Tue, 24 Nov 26 12:00:00 +0000"
   },
@@ -48,15 +54,9 @@
     "pubDate": "Tue, 24 Nov 26 12:00:00 +0000"
   },
   {
-    "title": "AutomationDirect C-More EA9 Programming Software",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+    "title": "Danfoss AK-SM 8xxA Series",
+    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
     "source": "CISA Alerts",
     "pubDate": "Tue, 24 Nov 26 12:00:00 +0000"
-  },
-  {
-    "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-    "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-    "source": "CISA Alerts",
-    "pubDate": "Mon, 23 Nov 26 12:00:00 +0000"
   }
 ]
