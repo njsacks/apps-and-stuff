@@ -1,33 +1,39 @@
 [
   {
+    "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+    "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 27 Nov 2026 22:06:11 +0530"
+  },
+  {
+    "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+    "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 27 Nov 2026 17:19:34 +0530"
+  },
+  {
+    "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+    "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 27 Nov 2026 16:02:18 +0530"
+  },
+  {
+    "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+    "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+    "source": "The Hacker News",
+    "pubDate": "Fri, 27 Nov 2026 14:59:30 +0530"
+  },
+  {
     "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
     "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
     "source": "The Hacker News",
     "pubDate": "Fri, 27 Nov 2026 11:34:20 +0530"
   },
   {
-    "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
-    "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 27 Nov 2026 11:18:20 +0530"
-  },
-  {
-    "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
-    "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
-    "source": "The Hacker News",
-    "pubDate": "Fri, 27 Nov 2026 01:09:57 +0530"
-  },
-  {
-    "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-    "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 26 Nov 2026 20:43:41 +0530"
-  },
-  {
-    "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-    "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-    "source": "The Hacker News",
-    "pubDate": "Thu, 26 Nov 2026 16:27:55 +0530"
+    "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+    "link": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+    "source": "CISA Alerts",
+    "pubDate": "Fri, 27 Nov 26 12:00:00 +0000"
   },
   {
     "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
@@ -50,12 +56,6 @@
   {
     "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
-    "source": "CISA Alerts",
-    "pubDate": "Tue, 24 Nov 26 12:00:00 +0000"
-  },
-  {
-    "title": "Danfoss AK-SM 8xxA Series",
-    "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
     "source": "CISA Alerts",
     "pubDate": "Tue, 24 Nov 26 12:00:00 +0000"
   }
